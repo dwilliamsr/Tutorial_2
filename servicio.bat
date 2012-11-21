@@ -1,0 +1,1 @@
+java -jar C:\tutorial2\winstone-0.9.10.jar --httpPort=8089 --commonLibFolder=C:\tutorial2\library --useJasper=true --webappsDir=C:\tutorial2\webapps
